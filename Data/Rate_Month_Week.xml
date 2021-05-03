@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FDBS Version="15">
+	<Manager UpdatesRegistry="True">
+		<TableList>
+			<Table Name="ExchangeMemTable" SourceName="Table" TabID="0" EnforceConstraints="False" MinimumCapacity="50" CheckNotNull="False">
+				<ColumnList>
+					<Column Name="Date" SourceName="Date" SourceID="1" DataType="Date" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginColName="Date"/>
+					<Column Name="USD_BTC" SourceName="USD_BTC" SourceID="2" DataType="Double" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginColName="USD_BTC"/>
+					<Column Name="USD_ETH" SourceName="USD_ETH" SourceID="3" DataType="Double" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginColName="USD_ETH"/>
+				</ColumnList>
+				<ConstraintList/>
+				<ViewList/>
+				<RowList>
+					<Row RowID="0" RowPriorState="Unchanged">
+						<Original Date="20210502" USD_BTC="56620.8936449999965" USD_ETH="2951.62987900000007"/>
+					</Row>
+					<Row RowID="1" RowPriorState="Unchanged">
+						<Original Date="20210425" USD_BTC="49011.8543050000008" USD_ETH="2315.20496800000001"/>
+					</Row>
+					<Row RowID="2" RowPriorState="Unchanged">
+						<Original Date="20210418" USD_BTC="56283.6646089999995" USD_ETH="2240.17042099999981"/>
+					</Row>
+					<Row RowID="3" RowPriorState="Unchanged">
+						<Original Date="20210411" USD_BTC="60000.597815000001" USD_ETH="2149.97458499999993"/>
+					</Row>
+					<Row RowID="4" RowPriorState="Unchanged">
+						<Original Date="20210404" USD_BTC="58215.7023100000006" USD_ETH="2076.21391799999992"/>
+					</Row>
+				</RowList>
+			</Table>
+		</TableList>
+		<RelationList/>
+		<UpdatesJournal SavePoint="72">
+			<Changes/>
+		</UpdatesJournal>
+	</Manager>
+</FDBS>

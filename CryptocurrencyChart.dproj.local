@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021-05-02 21:23:21.292,=C:\Users\mahri\Documents\Embarcadero\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-05-02 21:23:56.375,C:\Users\mahri\Documents\Embarcadero\Projects\EliMapstead\CryptocurrencyCharts\CryptocurrencyForm.dfm=C:\Users\mahri\Documents\Embarcadero\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021-05-02 21:23:56.375,C:\Users\mahri\Documents\Embarcadero\Projects\EliMapstead\CryptocurrencyCharts\CryptocurrencyForm.pas=C:\Users\mahri\Documents\Embarcadero\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-05-02 21:24:22.718,C:\Users\mahri\Documents\Embarcadero\Projects\EliMapstead\CryptocurrencyCharts\CryptocurrencyChart.dproj=C:\Users\mahri\Documents\Embarcadero\Projects\Project1.dproj</Transaction>
+    <Transaction>2021-05-02 21:26:29.984,=C:\Users\mahri\Documents\Embarcadero\Projects\EliMapstead\CryptocurrencyCharts\Unit1.pas</Transaction>
+    <Transaction>2021-05-02 21:27:16.734,C:\Users\mahri\Documents\Embarcadero\Projects\EliMapstead\CryptocurrencyCharts\CryptocurrencyDM.pas=C:\Users\mahri\Documents\Embarcadero\Projects\EliMapstead\CryptocurrencyCharts\Unit1.pas</Transaction>
+    <Transaction>2021-05-02 21:27:16.734,C:\Users\mahri\Documents\Embarcadero\Projects\EliMapstead\CryptocurrencyCharts\CryptocurrencyDM.dfm=C:\Users\mahri\Documents\Embarcadero\Projects\EliMapstead\CryptocurrencyCharts\Unit1.dfm</Transaction>
+    <Transaction>2021-05-03 02:56:42.582,=C:\Users\mahri\Documents\Embarcadero\Projects\EliMapstead\CryptocurrencyCharts\Unit1.pas</Transaction>
+    <Transaction>2021-05-03 02:57:12.535,C:\Users\mahri\Documents\Embarcadero\Projects\EliMapstead\CryptocurrencyCharts\DataDialog.dfm=C:\Users\mahri\Documents\Embarcadero\Projects\EliMapstead\CryptocurrencyCharts\Unit1.dfm</Transaction>
+    <Transaction>2021-05-03 02:57:12.535,C:\Users\mahri\Documents\Embarcadero\Projects\EliMapstead\CryptocurrencyCharts\DataDialog.pas=C:\Users\mahri\Documents\Embarcadero\Projects\EliMapstead\CryptocurrencyCharts\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

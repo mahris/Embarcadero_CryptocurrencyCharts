@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FDBS Version="15">
+	<Manager UpdatesRegistry="True">
+		<TableList>
+			<Table Name="ExchangeMemTable" SourceName="Table" TabID="0" EnforceConstraints="False" MinimumCapacity="50" CheckNotNull="False">
+				<ColumnList>
+					<Column Name="Date" SourceName="Date" SourceID="1" DataType="Date" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginColName="Date"/>
+					<Column Name="USD_BTC" SourceName="USD_BTC" SourceID="2" DataType="Double" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginColName="USD_BTC"/>
+					<Column Name="USD_ETH" SourceName="USD_ETH" SourceID="3" DataType="Double" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginColName="USD_ETH"/>
+				</ColumnList>
+				<ConstraintList/>
+				<ViewList/>
+				<RowList>
+					<Row RowID="0" RowPriorState="Unchanged">
+						<Original Date="20210502" USD_BTC="56620.8936449999965" USD_ETH="2951.62987900000007"/>
+					</Row>
+					<Row RowID="1" RowPriorState="Unchanged">
+						<Original Date="20210425" USD_BTC="49011.8543050000008" USD_ETH="2315.20496800000001"/>
+					</Row>
+					<Row RowID="2" RowPriorState="Unchanged">
+						<Original Date="20210418" USD_BTC="56283.6646089999995" USD_ETH="2240.17042099999981"/>
+					</Row>
+					<Row RowID="3" RowPriorState="Unchanged">
+						<Original Date="20210411" USD_BTC="60000.597815000001" USD_ETH="2149.97458499999993"/>
+					</Row>
+					<Row RowID="4" RowPriorState="Unchanged">
+						<Original Date="20210404" USD_BTC="58215.7023100000006" USD_ETH="2076.21391799999992"/>
+					</Row>
+					<Row RowID="5" RowPriorState="Unchanged">
+						<Original Date="20210328" USD_BTC="55482.4767849999989" USD_ETH="1681.27626699999996"/>
+					</Row>
+					<Row RowID="6" RowPriorState="Unchanged">
+						<Original Date="20210321" USD_BTC="57415.129657999998" USD_ETH="1783.9865850000001"/>
+					</Row>
+					<Row RowID="7" RowPriorState="Unchanged">
+						<Original Date="20210314" USD_BTC="59177.1251049999992" USD_ETH="1851.95291100000009"/>
+					</Row>
+					<Row RowID="8" RowPriorState="Unchanged">
+						<Original Date="20210307" USD_BTC="51216.592948999998" USD_ETH="1716.32072999999991"/>
+					</Row>
+					<Row RowID="9" RowPriorState="Unchanged">
+						<Original Date="20210228" USD_BTC="45131.3108599999978" USD_ETH="1416.24551300000007"/>
+					</Row>
+					<Row RowID="10" RowPriorState="Unchanged">
+						<Original Date="20210221" USD_BTC="57498.6015079999997" USD_ETH="1934.53858199999991"/>
+					</Row>
+					<Row RowID="11" RowPriorState="Unchanged">
+						<Original Date="20210214" USD_BTC="48718.5791670000035" USD_ETH="1804.85040800000002"/>
+					</Row>
+					<Row RowID="12" RowPriorState="Unchanged">
+						<Original Date="20210207" USD_BTC="38918.7488400000002" USD_ETH="1609.1224850000001"/>
+					</Row>
+					<Row RowID="13" RowPriorState="Unchanged">
+						<Original Date="20210131" USD_BTC="32987.7303029999966" USD_ETH="1314.09274299999993"/>
+					</Row>
+					<Row RowID="14" RowPriorState="Unchanged">
+						<Original Date="20210124" USD_BTC="32198.7417539999988" USD_ETH="1394.26231000000007"/>
+					</Row>
+					<Row RowID="15" RowPriorState="Unchanged">
+						<Original Date="20210117" USD_BTC="35814.4030409999978" USD_ETH="1231.43049399999995"/>
+					</Row>
+					<Row RowID="16" RowPriorState="Unchanged">
+						<Original Date="20210110" USD_BTC="38243.0162370000035" USD_ETH="1257.89210899999989"/>
+					</Row>
+					<Row RowID="17" RowPriorState="Unchanged">
+						<Original Date="20210103" USD_BTC="32937.7865139999994" USD_ETH="976.066054000000008"/>
+					</Row>
+					<Row RowID="18" RowPriorState="Unchanged">
+						<Original Date="20201227" USD_BTC="26373.2883489999986" USD_ETH="686.874594000000002"/>
+					</Row>
+					<Row RowID="19" RowPriorState="Unchanged">
+						<Original Date="20201220" USD_BTC="23441.4882980000002" USD_ETH="636.96577400000001"/>
+					</Row>
+					<Row RowID="20" RowPriorState="Unchanged">
+						<Original Date="20201213" USD_BTC="19159.4286659999998" USD_ETH="590.083169999999996"/>
+					</Row>
+					<Row RowID="21" RowPriorState="Unchanged">
+						<Original Date="20201206" USD_BTC="19356.5955350000004" USD_ETH="601.511103000000048"/>
+					</Row>
+					<Row RowID="22" RowPriorState="Unchanged">
+						<Original Date="20201129" USD_BTC="18199.9163999999982" USD_ETH="576.124687999999992"/>
+					</Row>
+					<Row RowID="23" RowPriorState="Unchanged">
+						<Original Date="20201122" USD_BTC="18407.1802510000016" USD_ETH="559.297866999999997"/>
+					</Row>
+					<Row RowID="24" RowPriorState="Unchanged">
+						<Original Date="20201115" USD_BTC="15957.1784169999992" USD_ETH="448.48423600000001"/>
+					</Row>
+					<Row RowID="25" RowPriorState="Unchanged">
+						<Original Date="20201108" USD_BTC="15472.5326320000004" USD_ETH="454.623338999999987"/>
+					</Row>
+					<Row RowID="26" RowPriorState="Unchanged">
+						<Original Date="20201101" USD_BTC="13745.3145029999996" USD_ETH="395.824710999999979"/>
+					</Row>
+					<Row RowID="27" RowPriorState="Unchanged">
+						<Original Date="20201025" USD_BTC="13033.1084410000003" USD_ETH="406.072429"/>
+					</Row>
+					<Row RowID="28" RowPriorState="Unchanged">
+						<Original Date="20201018" USD_BTC="11500.9565739999998" USD_ETH="377.848056999999983"/>
+					</Row>
+					<Row RowID="29" RowPriorState="Unchanged">
+						<Original Date="20201011" USD_BTC="11323.3716640000002" USD_ETH="372.259748000000002"/>
+					</Row>
+					<Row RowID="30" RowPriorState="Unchanged">
+						<Original Date="20201004" USD_BTC="10673.9858870000007" USD_ETH="352.298704999999984"/>
+					</Row>
+					<Row RowID="31" RowPriorState="Unchanged">
+						<Original Date="20200927" USD_BTC="10779.4888410000003" USD_ETH="357.373747999999978"/>
+					</Row>
+					<Row RowID="32" RowPriorState="Unchanged">
+						<Original Date="20200920" USD_BTC="10926.4424429999999" USD_ETH="371.390565999999978"/>
+					</Row>
+					<Row RowID="33" RowPriorState="Unchanged">
+						<Original Date="20200913" USD_BTC="10341.0573399999994" USD_ETH="366.314471000000026"/>
+					</Row>
+					<Row RowID="34" RowPriorState="Unchanged">
+						<Original Date="20200906" USD_BTC="10273.6746519999997" USD_ETH="352.832778000000019"/>
+					</Row>
+					<Row RowID="35" RowPriorState="Unchanged">
+						<Original Date="20200830" USD_BTC="11706.252477" USD_ETH="428.382955999999979"/>
+					</Row>
+					<Row RowID="36" RowPriorState="Unchanged">
+						<Original Date="20200823" USD_BTC="11657.5792810000003" USD_ETH="391.349883999999975"/>
+					</Row>
+					<Row RowID="37" RowPriorState="Unchanged">
+						<Original Date="20200816" USD_BTC="11853.8333359999997" USD_ETH="433.091634999999997"/>
+					</Row>
+					<Row RowID="38" RowPriorState="Unchanged">
+						<Original Date="20200809" USD_BTC="11653.7518999999993" USD_ETH="388.959317999999996"/>
+					</Row>
+					<Row RowID="39" RowPriorState="Unchanged">
+						<Original Date="20200802" USD_BTC="11082.1345610000008" USD_ETH="372.300820999999985"/>
+					</Row>
+					<Row RowID="40" RowPriorState="Unchanged">
+						<Original Date="20200726" USD_BTC="9928.84922399999959" USD_ETH="310.716277999999988"/>
+					</Row>
+					<Row RowID="41" RowPriorState="Unchanged">
+						<Original Date="20200719" USD_BTC="9207.08466399999998" USD_ETH="238.17437000000001"/>
+					</Row>
+					<Row RowID="42" RowPriorState="Unchanged">
+						<Original Date="20200712" USD_BTC="9296.91031599999951" USD_ETH="242.686971999999997"/>
+					</Row>
+					<Row RowID="43" RowPriorState="Unchanged">
+						<Original Date="20200705" USD_BTC="9100.19359500000064" USD_ETH="228.433632999999986"/>
+					</Row>
+					<Row RowID="44" RowPriorState="Unchanged">
+						<Original Date="20200628" USD_BTC="9125.01146399999925" USD_ETH="224.910852000000006"/>
+					</Row>
+					<Row RowID="45" RowPriorState="Unchanged">
+						<Original Date="20200621" USD_BTC="9308.26071899999988" USD_ETH="228.378059000000007"/>
+					</Row>
+					<Row RowID="46" RowPriorState="Unchanged">
+						<Original Date="20200614" USD_BTC="9382.04356000000007" USD_ETH="233.284163000000007"/>
+					</Row>
+					<Row RowID="47" RowPriorState="Unchanged">
+						<Original Date="20200607" USD_BTC="9745.88311299999987" USD_ETH="244.110059000000007"/>
+					</Row>
+					<Row RowID="48" RowPriorState="Unchanged">
+						<Original Date="20200531" USD_BTC="9459.37220100000013" USD_ETH="231.454090000000008"/>
+					</Row>
+					<Row RowID="49" RowPriorState="Unchanged">
+						<Original Date="20200524" USD_BTC="8781.99731000000065" USD_ETH="202.016235999999992"/>
+					</Row>
+					<Row RowID="50" RowPriorState="Unchanged">
+						<Original Date="20200517" USD_BTC="9630.09082400000079" USD_ETH="206.753786999999988"/>
+					</Row>
+					<Row RowID="51" RowPriorState="Unchanged">
+						<Original Date="20200510" USD_BTC="8776.49858300000051" USD_ETH="188.186630000000008"/>
+					</Row>
+					<Row RowID="52" RowPriorState="Unchanged">
+						<Original Date="20200503" USD_BTC="8908.21755099999973" USD_ETH="210.32007999999999"/>
+					</Row>
+				</RowList>
+			</Table>
+		</TableList>
+		<RelationList/>
+		<UpdatesJournal SavePoint="178">
+			<Changes/>
+		</UpdatesJournal>
+	</Manager>
+</FDBS>

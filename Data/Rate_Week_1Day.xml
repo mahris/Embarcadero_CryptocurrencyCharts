@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FDBS Version="15">
+	<Manager UpdatesRegistry="True">
+		<TableList>
+			<Table Name="ExchangeMemTable" SourceName="Table" TabID="0" EnforceConstraints="False" MinimumCapacity="50" CheckNotNull="False">
+				<ColumnList>
+					<Column Name="Date" SourceName="Date" SourceID="1" DataType="Date" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginColName="Date"/>
+					<Column Name="USD_BTC" SourceName="USD_BTC" SourceID="2" DataType="Double" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginColName="USD_BTC"/>
+					<Column Name="USD_ETH" SourceName="USD_ETH" SourceID="3" DataType="Double" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginColName="USD_ETH"/>
+				</ColumnList>
+				<ConstraintList/>
+				<ViewList/>
+				<RowList>
+					<Row RowID="0" RowPriorState="Unchanged">
+						<Original Date="20210502" USD_BTC="56620.8936449999965" USD_ETH="2951.62987900000007"/>
+					</Row>
+					<Row RowID="1" RowPriorState="Unchanged">
+						<Original Date="20210501" USD_BTC="57823.1749760000021" USD_ETH="2946.50720499999989"/>
+					</Row>
+					<Row RowID="2" RowPriorState="Unchanged">
+						<Original Date="20210430" USD_BTC="57780.8525200000004" USD_ETH="2773.42509699999982"/>
+					</Row>
+					<Row RowID="3" RowPriorState="Unchanged">
+						<Original Date="20210429" USD_BTC="53563.6472349999967" USD_ETH="2757.69308300000012"/>
+					</Row>
+					<Row RowID="4" RowPriorState="Unchanged">
+						<Original Date="20210428" USD_BTC="54830.1652630000026" USD_ETH="2746.41237799999999"/>
+					</Row>
+					<Row RowID="5" RowPriorState="Unchanged">
+						<Original Date="20210427" USD_BTC="55050.5968690000009" USD_ETH="2664.07063800000014"/>
+					</Row>
+					<Row RowID="6" RowPriorState="Unchanged">
+						<Original Date="20210426" USD_BTC="54039.4205629999997" USD_ETH="2537.1171760000002"/>
+					</Row>
+				</RowList>
+			</Table>
+		</TableList>
+		<RelationList/>
+		<UpdatesJournal SavePoint="192">
+			<Changes/>
+		</UpdatesJournal>
+	</Manager>
+</FDBS>
