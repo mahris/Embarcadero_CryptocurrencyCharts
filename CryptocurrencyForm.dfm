@@ -18,7 +18,7 @@ object CryptocurrencyFrm: TCryptocurrencyFrm
     Top = 41
     Width = 748
     Height = 387
-    ActivePage = tsBTC_ETH
+    ActivePage = tsBTC
     Align = alClient
     TabOrder = 0
     object tsBTC: TTabSheet
@@ -31,6 +31,7 @@ object CryptocurrencyFrm: TCryptocurrencyFrm
         Height = 359
         Title.Text.Strings = (
           'TDBChart')
+        BottomAxis.LabelsAngle = 55
         Align = alClient
         TabOrder = 0
         ExplicitLeft = 104
@@ -158,7 +159,7 @@ object CryptocurrencyFrm: TCryptocurrencyFrm
     Left = 624
     Top = 376
     Content = {
-      414442530F007E1F72030000FF00010001FF02FF030400200000004500780063
+      414442530F006E1A72030000FF00010001FF02FF030400200000004500780063
       00680061006E00670065004D0065006D005400610062006C00650005000A0000
       005400610062006C006500060000000000070000080032000000090000FF0AFF
       0B040008000000440061007400650005000800000044006100740065000C0001

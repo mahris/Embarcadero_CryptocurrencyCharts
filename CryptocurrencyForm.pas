@@ -40,7 +40,7 @@ uses IOUtils, CryptocurrencyDM, DateUtils, DataDialog;
 
 procedure TCryptocurrencyFrm.bnDataClick(Sender: TObject);
 begin
-  DataDlg.ShowModal;
+  DataDlg.Show;
 end;
 
 end.
